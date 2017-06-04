@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Frontier Studio",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -260,17 +260,17 @@
                 "active": false
               },
               {
-                "tags": "Candid Shots",
+                "tags": "Wedding",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/10-2000x1332-800x532.jpg",
                 "image": "@PROJECT_PATH@/assets/images/10-2000x1332.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Candid Shots",
+                "tags": "Wedding",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -280,14 +280,14 @@
                 "active": false
               },
               {
-                "tags": "Candid Shots",
+                "tags": "Wedding",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/05-2000x1800-800x720.jpg",
                 "image": "@PROJECT_PATH@/assets/images/05-2000x1800.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -551,6 +551,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x1200-800x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-2000x1200.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/04-2000x1600-800x640.jpg",
                 "image": "@PROJECT_PATH@/assets/images/04-2000x1600.jpg",
                 "caption": "Type caption here",
@@ -563,6 +573,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/05-2000x1800-800x720.jpg",
                 "image": "@PROJECT_PATH@/assets/images/05-2000x1800.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1332.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -583,26 +603,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/09-2000x1578-800x631.jpg",
                 "image": "@PROJECT_PATH@/assets/images/09-2000x1578.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/10-2000x1332.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12-2000x1200-800x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-2000x1200.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
