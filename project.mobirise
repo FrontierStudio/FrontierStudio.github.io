@@ -176,7 +176,7 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "images": [
               {
