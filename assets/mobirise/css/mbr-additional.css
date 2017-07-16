@@ -1,6 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
 
 
 
@@ -8,11 +10,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lora', serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lora', serif;
 }
 .btn,
 .alert,
@@ -36,7 +38,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -50,7 +52,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 .btn-sm,
 .lead a,
@@ -62,13 +64,13 @@ h6,
   font-family: 'Lora', serif;
 }
 .mbr-author-name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
 }
 .mbr-plan-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -426,11 +428,11 @@ h6,
   color: #ffffff;
 }
 #menu-4 .link {
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.921rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -475,9 +477,24 @@ h6,
 }
 #header1-2 .mbr-section-lead B {
   text-align: right;
+  font-size: 14px;
+  font-family: 'Lora', serif;
 }
 #header1-2 .mbr-section-lead {
   text-align: right;
+}
+#header3-q .mbr-section-title,
+#header3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-q H3 {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-q SMALL {
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
+  color: #494949;
 }
 #contacts2-8 STRONG {
   color: #ffffff;
@@ -511,11 +528,11 @@ h6,
   color: #ffffff;
 }
 #menu-4 .link {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.975rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -557,6 +574,9 @@ h6,
 #content5-o .mbr-section-title,
 #content5-o p {
   color: #fff;
+}
+#content5-o .mbr-section-title {
+  color: #efefef;
 }
 #contacts2-l STRONG {
   color: #ffffff;
